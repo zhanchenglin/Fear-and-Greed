@@ -1,0 +1,5 @@
+{
+  "name": "Market Sentiment Tracker",
+  "description": "Real-time visualization of the CNN Fear & Greed Index with historical data analysis.",
+  "requestFramePermissions": []
+}
